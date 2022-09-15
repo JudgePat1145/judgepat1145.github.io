@@ -52,7 +52,7 @@ round-avatar: false
 social-network-links:
   email: "oakhillcollaborative@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: @oakhillcollaborative
+  facebook: oakhillcollaborative
   github: https://github.com/JudgePat1145
   twitter: OHCollaborative
   # patreon: DeanAttali
